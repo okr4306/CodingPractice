@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!--
+![okr4306's GitHub stats](https://github-readme-stats.vercel.app/api?username=okr4306&show_icons=true&theme=slateorange)
 **okr4306/okr4306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
